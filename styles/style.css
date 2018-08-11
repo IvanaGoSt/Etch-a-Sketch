@@ -1,0 +1,21 @@
+#container{
+  display: grid;
+  width: 100%;
+  max-width: 450px;
+  height: 100vw;
+  max-height: 450px;
+  margin: auto;
+}
+
+#wrapper {
+  width: 100%;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.probe {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+}
